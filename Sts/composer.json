@@ -1,0 +1,21 @@
+{
+    "name": "dawn520/aliyun-php-sdk-sts",
+    "description": "aliyun-php-sdk-sts",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xixi zhou",
+            "email": "admin@zhouchenxi.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dawn520\\Aliyun\\STS\\": "aliyun-php-sdk-sts/"
+        }
+    }
+}
